@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Petar</h1>
-<h3 align="center">Building real-world solutions from the ground up.</h3>
+<h3 align="center">Inspired to build and optimize real-world solutions! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petarkrasimirovpavlov&label=Profile%20views&color=0e75b6&style=flat" alt="petarkrasimirovpavlov" /> </p>
 
