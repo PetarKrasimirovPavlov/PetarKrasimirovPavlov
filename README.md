@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi 👋, I'm Petar<br>Inspired to build and optimize real-world solutions!<br><br>🔭 I’m currently working on Web development project<br><br>🌱 I’m currently learning Jinja2<br><br>🤝 I’m looking for help with app development<br><br>📫 How to reach me petar.k.pavlov@outlook.com
 
 
