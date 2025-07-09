@@ -1,5 +1,5 @@
 # Hi 👋, I'm Petar
-Inspired to build and optimize real-world solutions!<br><br>🔭 I’m currently working on Web development project<br><br>🌱 I’m currently learning Jinja2<br><br>🤝 I’m looking for help with app development<br><br>📫 How to reach me petar.k.pavlov@outlook.com
+Inspired to build and optimize real-world solutions!<br><br>🔭 I’m currently looking for my first junior role <br><br>🌱 I’m currently learning MongoDb<br><br>🤝 I’m looking for guidance on production code principles <br><br>📫 How to reach me petar.k.pavlov@outlook.com
 
 
 ## 🌐 Socials:
