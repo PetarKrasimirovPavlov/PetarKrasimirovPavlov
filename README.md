@@ -1,5 +1,5 @@
 # Hi 👋, I'm Petar
-Inspired to build and optimize real-world solutions!<br><br>🔭 I’m currently looking for my first junior role <br><br>🌱 I’m currently learning MongoDb<br><br>🤝 I’m looking for guidance on production code principles <br><br>📫 How to reach me petar.k.pavlov@outlook.com
+Inspired to build real-world solutions!<br><br>🌱 I’m currently learning ISTQB Foundations<br><br>📫 How to reach me petar.k.pavlov@outlook.com
 
 
 ## 🌐 Socials:
